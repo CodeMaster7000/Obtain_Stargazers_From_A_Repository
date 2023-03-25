@@ -4,3 +4,13 @@
 
 A handy Python script to obtain the number of stars from a GitHub repository.
 
+## Prerequisites
+
+- PyGithub module
+- Python 3
+
+You can install this simply with `pip install PyGithub`.
+
+## Implementation
+
+Run `python3 Repository-Stargazers.py` in a terminal if you have Python 3.
